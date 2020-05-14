@@ -1,4 +1,6 @@
 *.idea
 log
 *.pyc
+app
+temp
 test.py
